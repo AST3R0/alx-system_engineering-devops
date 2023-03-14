@@ -1,0 +1,1 @@
+#!/bin/bashind . -empty | rev | cut -d / -f 1 | rev
